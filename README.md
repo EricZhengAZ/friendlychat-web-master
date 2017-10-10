@@ -13,3 +13,5 @@ In the second part, I have acomplished:
 1. Importing Cloud Functions
 2. Images Moderation
 3. New message notification
+
+And the URL of this web chat page is https://friendlychat-96895.firebaseapp.com/
